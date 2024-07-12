@@ -1,0 +1,11 @@
+torch
+transformers
+protobuf
+sentencepiece
+nltk
+pandas
+datasets
+conllu
+Pillow
+termcolor
+tqdm
